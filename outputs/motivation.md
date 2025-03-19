@@ -10,7 +10,7 @@ Most of conversation is beating around the bush of disapproval which we all have
 
 "I'm human, you're human, being human is hard, right".
 
-soft white underbelly.
+soft white underbelly. https://www.youtube.com/@SoftWhiteUnderbelly
 
 Winston Churchill called Italy the "soft underbelly" of Europe during WWII. He believed that an attack through Italy could be a crucial point of vulnerability in the Axis powers.
 
