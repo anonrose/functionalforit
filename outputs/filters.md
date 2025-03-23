@@ -22,7 +22,7 @@ the fuck does that even mean, don't you just want to value the people, your work
 ```js
 
 let expectations = ['school', 'job', 'partner', 'career'];
-kyle = expectations.filter(expectation => {
+expectations.filter(expectation => {
   return !kyle.isDefinedBy(expectation) && kyle.findMeaningBeyond(expectation);
 });
 ```
