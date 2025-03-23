@@ -19,8 +19,10 @@ societal expectations of what they are, or your own, does it really even matter,
 dream job -
 the fuck does that even mean, don't you just want to value the people, your work, and spend time with in pursuit of something larger than the individual self
 
+```js
 
 let expectations = ['school', 'job', 'partner', 'career'];
-let kyle = expectations.filter(expectation => {
+kyle = expectations.filter(expectation => {
   return !kyle.isDefinedBy(expectation) && kyle.findMeaningBeyond(expectation);
 });
+```
