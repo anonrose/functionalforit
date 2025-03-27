@@ -26,6 +26,6 @@ you call these people your friends, what you spend your time doing fun, and igno
 
 they are not conducive of your values therefore you will not have money as it is eaten away due to misaligned values
 
-the people you should be focusing on do not value _you_ therefore it is a waste, focus on things that you provide value, and provides you value and it's _value_ you shall have
+the people you focus on do not value _you_ therefore it is a waste, focus on things that you provide value, and provides you value and it's _value_ you shall have
 
 "man is nothing more than his project"
