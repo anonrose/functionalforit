@@ -28,6 +28,10 @@ someone with experience in relationships may respond to that question with a ser
 
 to someone with experience in a relationship, "my girlfriend cheated on me what should i do" is quite silly
 
+open with a series of "here's what i've dones" - "hey my girlfriend cheated on me, i've been attempting to talk to her, she isn't responding, i spend time with her and have done everything in my ability to communicate and have been a good partner"
+
+then the answer is simple
+
 the same goes for programming and every other aspect of life
 
 "hey this form isn't submitting" - to an experienced programmer cmd+option+i is second nature, it is the first thing you'd do and you'd follow a series of questions until you got to the answer
