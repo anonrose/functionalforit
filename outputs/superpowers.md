@@ -30,7 +30,7 @@ to someone with experience in a relationship, "my girlfriend cheated on me what 
 
 the same goes for programming and every other aspect of life
 
-"hey this form isn't submitting" - to an experienced programming cmd+option+i is second nature, it is the first thing you'd do and you'd follow a series of questions until you got to the answer
+"hey this form isn't submitting" - to an experienced programmer cmd+option+i is second nature, it is the first thing you'd do and you'd follow a series of questions until you got to the answer
 
 also, it's always good to ensure the person that you're asking has absolutely zero incentive in the outcome of your question else their answer could be skewed in a direction of their desire
 
