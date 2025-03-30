@@ -1,3 +1,3 @@
 # functionalforit
 
-we are a function. we take inputs and produce outputs. these are my inputs. their effects produce my outputs.
+we are a function. whether internal or external data, we take inputs and produce outputs by performing a computation and returning it
