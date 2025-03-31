@@ -1,0 +1,62 @@
+FunctionalForIt Nonprofit License
+
+Version: 1.0
+Date: 03, 31, 2025
+
+1. Purpose
+
+This license is designed for a nonprofit organization (“the Nonprofit”) that wishes to share its software’s source code for community contributions while prohibiting others from running separate instances or forks of the software. This license is not an open-source license under OSI standards.
+
+2. Definitions
+	1.	“Software” means the code, documentation, and other materials made available by the Nonprofit under this license.
+	2.	“You” or “Your” means an individual or legal entity exercising rights under this license.
+	3.	“Official Repository” means the Nonprofit’s designated source code repository or repositories, as identified by the Nonprofit.
+	4.	“Contribution” means any work (including modifications, enhancements, or additions) that You provide to the Official Repository under the terms of this license.
+
+3. License Grant
+	1.	View and Modify: The Nonprofit grants You a limited, non-exclusive, non-transferable, revocable license to:
+	•	Access and view the Software’s source code solely for the purpose of evaluating or preparing Contributions.
+	•	Create modifications or derivative works (collectively, “Modifications”) of the Software solely for the purpose of submitting those Modifications as Contributions to the Official Repository.
+	2.	Contribute: You may submit Contributions to the Official Repository under this license, subject to any contribution guidelines published by the Nonprofit.
+
+4. Use and Deployment Restrictions
+	1.	No Independent Operation: You may not run, deploy, sublicense, sell, lease, loan, distribute, or otherwise make the Software or any Modifications available outside of the Official Repository or the Nonprofit’s control.
+	2.	No Forking for Separate Instances: You may not create or maintain a separate instance of the Software or any Modifications on any server or hosting platform, whether for private, public, commercial, or non-commercial use, unless expressly authorized in writing by the Nonprofit.
+	3.	No Circumvention: You may not circumvent or attempt to circumvent any technical limitations intended to prevent unauthorized deployments of the Software.
+
+5. Contributions
+	1.	License to Nonprofit: By submitting a Contribution, You grant the Nonprofit an irrevocable, worldwide, royalty-free license to use, reproduce, display, modify, adapt, publish, distribute, and sublicense Your Contribution as part of the Software.
+	2.	Warranty of Originality: You represent and warrant that each of Your Contributions is an original work or that You have sufficient rights to grant the Nonprofit the rights described in Section 5.1, and that Your Contribution does not infringe any third-party intellectual property rights.
+
+6. Reservation of Rights
+
+Except for the limited license expressly granted here, all rights, title, and interest in and to the Software are reserved by the Nonprofit or its licensors. No implied licenses are granted under this license.
+
+7. Trademarks
+
+This license does not grant permission to use the trade names, trademarks, service marks, or product names of the Nonprofit, except as required for reasonable and customary use in describing the origin of the Software.
+
+8. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. YOUR USE OF THE SOFTWARE IS SOLELY AT YOUR OWN RISK.
+
+9. Limitation of Liability
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE NONPROFIT OR ITS LICENSORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+10. Termination
+	1.	By the Nonprofit: The Nonprofit may terminate this license (a) immediately if You breach any condition in Sections 3 or 4; or (b) for any reason upon providing written notice.
+	2.	Effect of Termination: Upon termination of this license, You must cease all access to and use of the Software and destroy any copies in Your possession. However, any Contributions already merged or integrated into the Official Repository shall remain licensed under the terms of this license.
+	3.	Survival: Sections 5 (Contributions), 6 (Reservation of Rights), 8 (Disclaimer of Warranty), 9 (Limitation of Liability), and 10 (Termination) shall survive termination.
+
+11. Governing Law and Jurisdiction
+
+This license shall be governed by and construed in accordance with the laws of the jurisdiction where the Nonprofit is incorporated, without regard to conflict-of-laws principles. Any legal action or proceeding arising under this license shall be brought exclusively in the courts of that jurisdiction, and the parties consent to the personal jurisdiction and venue therein.
+
+12. Entire Agreement
+
+This license constitutes the entire agreement between the Nonprofit and You with respect to the Software licensed here. It supersedes all prior or contemporaneous understandings regarding its subject matter. No amendment to or modification of this license will be binding unless in writing and signed by the Nonprofit.
+
+⸻
+
+By accessing, viewing, or contributing to the Software, You indicate Your acceptance of this license. If You do not agree to these terms, do not access or use the Software.
