@@ -29,20 +29,19 @@ export default function LoginPage() {
               FunctionalForIt helps you connect with yourself and share meaningful experiences.
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-400 mb-6">
-              A social platform focused on introspection, emotional processing, and mindful sharing - without the
-              distractions of likes, comments, or follower counts.
+              A social platform centered on introspection, emotional processing, and mindful sharing.
             </p>
 
             <div className="bg-white dark:bg-gray-900 rounded-xl p-6 mb-6 border border-gray-200 dark:border-gray-800">
               <h3 className="text-xl font-semibold mb-3 text-gray-800 dark:text-gray-200">Our Non-Profit Mission</h3>
               <p className="text-gray-600 dark:text-gray-400 mb-4">
-                FunctionalForIt operates as a non-profit organization because we believe mental wellbeing and meaningful
-                connection should be accessible to everyone. Our mission is to create a digital space that prioritizes
-                authentic human experience over engagement metrics and profit motives.
+                As a non-profit, FunctionalForIt aims to make mental wellbeing and meaningful connections accessible to all. We prioritize genuine human experiences over metrics and profits.
+              </p>
+              <p className="text-gray-600 dark:text-gray-400 mb-4">
+                We don't advertise. The content you see is based solely on your contributions, not a manipulation of your internal dialogues.
               </p>
               <p className="text-gray-600 dark:text-gray-400">
-                100% of donations and contributions go toward maintaining the platform, developing new tools for
-                self-reflection, and making these resources available to underserved communities.
+                All donations and contributions are used to maintain the platform, develop self-reflection tools, and reach underserved communities.
               </p>
               <Button
                 className="mt-4 bg-gradient-to-r from-indigo-500 to-purple-600 hover:from-indigo-600 hover:to-purple-700"
