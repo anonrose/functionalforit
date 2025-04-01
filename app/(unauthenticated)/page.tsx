@@ -31,17 +31,20 @@ export default function LoginPage() {
             <p className="text-lg text-gray-600 dark:text-gray-400 mb-6">
               A social platform centered on introspection, emotional processing, and mindful sharing.
             </p>
-
             <div className="bg-white dark:bg-gray-900 rounded-xl p-6 mb-6 border border-gray-200 dark:border-gray-800">
-              <h3 className="text-xl font-semibold mb-3 text-gray-800 dark:text-gray-200">Our Non-Profit Mission</h3>
-              <p className="text-gray-600 dark:text-gray-400 mb-4">
-                As a non-profit, FunctionalForIt aims to make mental wellbeing and meaningful connections accessible to all. We prioritize genuine human experiences over metrics and profits.
-              </p>
-              <p className="text-gray-600 dark:text-gray-400 mb-4">
-                We don't advertise. The content you see is based solely on your contributions, not a manipulation of your internal dialogues.
-              </p>
+              <h3 className="text-xl font-semibold mb-3 text-gray-800 dark:text-gray-200">What Makes Us Different</h3>
+              <ul className="list-disc list-inside text-gray-600 dark:text-gray-400 mb-4">
+                <li>No popularity contests - we encourage genuine connections</li>
+                <li>No ads - we prioritize user experience over profits</li>
+                <li>No pictures - we focus on experiences, not appearances</li>
+                <li>No names - we value anonymity and privacy</li>
+                <li>No notion of gender - we believe in inclusivity and equality</li>
+                <li>No race - we promote unity and diversity</li>
+                <li>No income - we strive for accessibility and fairness</li>
+                <li>No data selling - we respect your personal data</li>
+              </ul>
               <p className="text-gray-600 dark:text-gray-400">
-                All donations and contributions are used to maintain the platform, develop self-reflection tools, and reach underserved communities.
+                This is a place for human experiences to be shared and reflected upon without judgement of the superficial.
               </p>
               <Button
                 className="mt-4 bg-gradient-to-r from-indigo-500 to-purple-600 hover:from-indigo-600 hover:to-purple-700"

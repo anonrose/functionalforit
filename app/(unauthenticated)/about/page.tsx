@@ -41,15 +41,11 @@ export default function AboutPage() {
 
           <div className="space-y-6">
             <p className="text-gray-600 dark:text-gray-400">
-              FunctionalForIt began in 2023 when a group of technologists, mental health professionals, and community
-              builders came together with a shared concern: social media was becoming increasingly harmful to mental
-              health and authentic human connection.
+              FunctionalForIt began in 2025.
             </p>
 
             <p className="text-gray-600 dark:text-gray-400">
-              We asked ourselves: What if we built a social platform that was intentionally designed to foster wellbeing
-              rather than maximize engagement? What if we removed the metrics that drive comparison and anxiety? What if
-              we created a space that encouraged depth rather than breadth?
+              ?
             </p>
 
             <p className="text-gray-600 dark:text-gray-400">
