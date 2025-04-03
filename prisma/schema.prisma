@@ -18,10 +18,10 @@ model User {
   notifications Notification[]
   moodHistory   MoodHistory[]
   topics        Topic[]
-  settings      UserSettings?
+  settings      UserSetting?
 }
 
-model UserSettings {
+model UserSetting {
   id            Int    @id @default(autoincrement())
   account       String
   privacy       String
