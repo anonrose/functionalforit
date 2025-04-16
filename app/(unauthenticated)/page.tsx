@@ -56,7 +56,7 @@ export default function LoginPage() {
           </div>
 
           {/* Right side - Login form */}
-          {/* <div className="flex-1 w-full max-w-md">
+          <div className="flex-1 w-full max-w-md">
             <div className="bg-white dark:bg-gray-900 rounded-xl shadow-md p-6">
               <form className="space-y-4">
                 <Input
@@ -91,7 +91,7 @@ export default function LoginPage() {
             <p className="text-sm text-center mt-6 text-gray-600 dark:text-gray-400">
               <span className="font-bold">Create a Page</span> for a public figure, group, or organization.
             </p>
-          </div> */}
+          </div>
         </div>
       </div>
 
