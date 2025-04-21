@@ -1,1 +1,0 @@
-father pointing out a store for shoes
